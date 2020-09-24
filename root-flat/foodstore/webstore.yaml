@@ -1,0 +1,9 @@
+kind: BrickStore
+apiVersion: marketplace.com/v1
+metadata:
+  name: munchies
+  namespace: foodstore
+spec:
+  product: "snacks"
+  employees: 9001
+
