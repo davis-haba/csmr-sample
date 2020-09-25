@@ -5,6 +5,6 @@ metadata:
   annotations:
     marketplace.com/comments: "What about chess?"
 data:
-  single_player: "20"
+  single_player: "21"
   cooperative: "60"
   competitive: "300"
